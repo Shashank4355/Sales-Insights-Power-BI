@@ -40,10 +40,7 @@ and success criteria  of our project.
 7. Data Validation
 8. Data Modelling and Visualization.
 
-## Major Changes/ Customizations Made
 
-1.Solved the ‘(blank)’ problem for the products section by deleting the original products table and adding the self-modified products table (where I have added the       Products ranging from Prod280 to Prod339 with their product type (random type- b/w ‘Own Brand’ and ‘Distribution’).
-2.Merged the original modified ‘sales_transaction’ table with the new ‘sales_transaction’ table having profit margin, cost price, etc.
 
 ###  Insights
   
